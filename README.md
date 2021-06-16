@@ -3,7 +3,7 @@ Selam dostlar ben Striga, arkadaşlar yine benden istenilen bir emojili kayıt b
 
 # Hızlı Ve Basit Kurulum
 * Bot klasöründe Powershell'i açın npm install yazın gerekli modülleri indirin.
-* Botu bastiçe ayarlamak için "Striga.js" dosyasını eksiksiz doldurun
+* Botu bastiçe ayarlamak için "Config" dosyasını eksiksiz doldurun
 * Botlarınızın yetkilerinin en üstte olduğundan emin oldun
 
 
